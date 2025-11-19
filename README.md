@@ -98,18 +98,6 @@ PATCH /parkir/:id
 
 ```
 
-# 📷 Screenshot
-
-Jika ingin menambahkan gambar:
-
-1. Buat folder `assets/` di root project
-2. Taruh file gambar dalam folder tersebut
-3. Panggil di README:
-
-```
-![Postman Example](assets/postman.png)
-```
-
 ---
 
 # ✔️ Kesimpulan
