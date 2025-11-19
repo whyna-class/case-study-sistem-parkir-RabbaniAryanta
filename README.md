@@ -92,11 +92,7 @@ PATCH /parkir/:id
 
 # 🔍 Contoh Search, Filter, Pagination
 
-```
-
 ![](images/Get_By_Filter.png)
-
-```
 
 ---
 
